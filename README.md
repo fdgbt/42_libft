@@ -1,5 +1,5 @@
 # 42_libft
-Reproducing some functions of C Standard Library, used in all 42 projects.
+Reproducing some functions of C Standard Library, used in all 42 projects.  
 The output is a static library: libft.a
 
 ## Install
@@ -18,7 +18,7 @@ Delete object files created during installation.
 `make clean`
 
 ## Uninstall
-Delete object files but also the compiled static library.
-Will not affect the source code.
+Delete object files but also the compiled static library.  
+It will not affect the source code.
 
 `make fclean`
