@@ -1,5 +1,5 @@
 # 42_libft
-Reproduzing some functions of C Standard Library, used in all 42 projects.
+Reproducing some functions of C Standard Library, used in all 42 projects.
 The output is a static library: libft.a
 
 ## Install
