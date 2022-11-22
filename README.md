@@ -22,3 +22,8 @@ Delete object files but also the compiled static library.
 It will not affect the source code.
 
 `make fclean`
+
+## Keywords
+Basics of C programming  
+Unix C library  
+Static library creation  
